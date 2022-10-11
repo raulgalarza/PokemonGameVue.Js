@@ -9,7 +9,7 @@
         <img v-else
                 :src="imgSrc"
                 class="fade-in"
-                alt="pokemon algoooo">        
+                alt="pokemon">        
     </div>
 </template>
 
